@@ -1,4 +1,4 @@
-![code](https://github.com/user-attachments/assets/1d9281e1-03fd-441c-a519-fc1d625334e2)Praktikum 1: PHP Framework (Codeigniter)
+Praktikum 1: PHP Framework (Codeigniter)
 
 Nama: Delsa Pramuditia
 
@@ -105,5 +105,10 @@ Langkah 10 : Membuat layout web dengan CSS
 
 ![code3](https://github.com/user-attachments/assets/0cbedbbc-b9ac-4bb6-9bab-ec01a38c288b)
 
+![Laprak (16)](https://github.com/user-attachments/assets/46e32798-8a90-4272-b00f-13d585d317fa)
 
+![Laprak (17)](https://github.com/user-attachments/assets/5814378f-bff0-4ab4-8d5a-bde2e9dc4c2e)
 
+![Laprak (18)](https://github.com/user-attachments/assets/5107b346-1ca4-43a2-a1e8-e48a87792b42)
+
+![Laprak (19)](https://github.com/user-attachments/assets/702cbe3e-1358-4149-ae9f-596952c89c9d)
