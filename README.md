@@ -274,12 +274,12 @@ Perbedaan antara View Cell dan View biasa:
 ## Langkah-langkah Praktikum
 ### Langkah 1 : Modifikasi method add() pada controller artikel
 - Modifikasi controller artikel
-![Laprak 6 - 1](Screenshots/Praktikum%206/Laprak%206%20(3).png)
+![Laprak 6 - 1](Screenshots/Praktikum%206/Laprak%206%20(1).png)
 
 ### Langkah 2 : Modifikasi file form_add.php
 - Menambahkan field input dan sesuaikan tag form dengan menambahkan ecrypt type.
-![Laprak 6 - 2](Screenshots/Praktikum%206/Laprak%206%20(1).png)
+![Laprak 6 - 2](Screenshots/Praktikum%206/Laprak%206%20(2).png)
 
 ## Hasil akhir praktikum 6
-![Laprak 6 - 3](Screenshots/Praktikum%206/Laprak%206%20(2).png)
+![Laprak 6 - 3](Screenshots/Praktikum%206/Laprak%206%20(3).png)
 
